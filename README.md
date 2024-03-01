@@ -1,4 +1,4 @@
-# Repositório para acompanhar as Metricas de Vendas
+# Repositório para acompanhar as métricas de Vendas
 
 <div style= 'display: inline_block'><br/>
     <img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
@@ -11,16 +11,13 @@
 
 # Sobre o repositório
 
-É um repositório usado para armazenar o Desafio de  **Analise de dados com Pytho** da formação em dados da escola DNC, com esse desafio sendo a criação de um modelo para verificar certas métricas de vendas de uma loja do segmento de varejo, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
+Repositório usado para armazenar o Desafio de  **Analise de dados com Python** da formação em dados da escola DNC, com esse desafio sendo a criação de um modelo para verificar certas métricas de vendas de uma loja do segmento de varejo, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
 # Processos seguidos
 - Limpeza de dados
 - Plot de metricas
 - Agrupamento de dados
 - Análise de gráficos
-
-Foi utlizado o GridSearch para encontrar metricas ainda melhores para os modeloscitados acima, ao final foram plotados as métricas encontradas
-
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
